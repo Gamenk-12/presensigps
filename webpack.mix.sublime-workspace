@@ -1,0 +1,302 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"tbl_surat",
+				"tbl_surat_keluar_form"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Access/Tech Dev/laravel/project1/routes/web.php",
+		"/D/Access/Tech Dev/laravel/project1/resources/views/auth/login.blade.php",
+		"/D/Access/Tech Dev/laravel/project1/server.php",
+		"/D/Access/Tech Dev/api-logistik-2023.postman_collection.json",
+		"/C/Users/C-Sundara/AppData/Local/Temp/Rar$DIb7952.29578/vk_swiftshader_icd.json",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp46292/home/ecourier/accesslogistik.net/public_html/apps_2020/modules/tmonitoringbaranggridnew/models/model_tmonitoringbaranggridnew.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp55066/home/ecourier/accesslogistik.net/public_html/apps_2020/modules/tvdashboardketerlambatan/views/index.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp51880/home/ecourier/accesslogistik.net/public_html/apps_2020/modules/tvdashboardpodterlambat/views/index.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp13133/home/ecourier/accesslogistik.net/public_html/apps_2020/modules/ttransdelivery/models/model_ttransdelivery.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp13227/home/ecourier/accesslogistik.net/public_html/apps_2020/modules/ttransdelivery/controllers/ttransdelivery.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp09301/home/ecourier/accesslogistik.net/public_html/apps_2020/modules/ttransdelivery/views/index.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp54185/home/ecourier/accesslogistik.net/public_html/apps_2020/modules/ttransdelivery/config.json",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp13594/home/ecourier/accesslogistik.net/public_html/apps_2020/modules/ttransdelivery/views/pdf.php",
+		"/C/Users/C-Sundara/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/C-Sundara/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp06512/home/ecourier/accesslogistik.net/public_html/css/apps/views/index/index.phtml",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp06383/home/ecourier/accesslogistik.net/public_html/css/apps/classes/models.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp06115/home/ecourier/accesslogistik.net/public_html/css/apps/classes/controllers.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp06191/home/ecourier/accesslogistik.net/public_html/css/apps/classes/singletone.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp10966/home/ecourier/accesslogistik.net/public_html/css/apps/models/mbarang.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp50827/home/ecourier/accesslogistik.net/public_html/css/apps/controllers/cindex.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp52408/home/ecourier/accesslogistik.net/public_html/css/apps/views/index/index.phtml",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp52408/home/ecourier/accesslogistik.net/public_html/css/apps/views/index/index2.phtml",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp20991/home/ecourier/accesslogistik.net/public_html/css/apps/classes/singletone.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp20855/home/ecourier/accesslogistik.net/public_html/css/apps/classes/models.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp51849/home/ecourier/accesslogistik.net/public_html/css/configs.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp51671/home/ecourier/accesslogistik.net/public_html/css/apps/routing.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp11974/home/ecourier/accesslogistik.net/public_html/css/apps/models/mcustomer.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp11141/home/ecourier/accesslogistik.net/public_html/css/apps/models/muser.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp08840/home/ecourier/accesslogistik.net/public_html/css/apps/views/index/index-ori.phtml",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp51495/home/ecourier/accesslogistik.net/public_html/css/composer.json",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp51543/home/ecourier/accesslogistik.net/public_html/css/index.php",
+		"/D/xmrig-6.14.1/config.json",
+		"/D/xmrig-6.14.1/config - Copy.json",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp54259/home/ecourier/accesslogistik.net/public_html/apps_2020/templates/docs/ttranspickupentryform/template_code/pdf_ttranspickupentryform.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp23210/home/ecourier/accesslogistik.net/public_html/apps_2020/templates/docs/ttransinboundawbform/template_code/pdf_ttransinboundawbform.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp21300/home/ecourier/accesslogistik.net/public_html/apps_2020/templates/docs/ttransinboundawbform/docs.json",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp29869/home/ecourier/accesslogistik.net/public_html/apps_2020/application/config/config.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp28662/home/ecourier/accesslogistik.net/public_html/apps_2020/composer.json",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp28454/home/ecourier/accesslogistik.net/public_html/apps_2020/index.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp28182/home/ecourier/accesslogistik.net/public_html/apps_2020/x-info.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp51936/home/ecourier/accesslogistik.net/public_html/logistik-flutter-2021/apps/models/mdelivery.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp45804/home/ecourier/accesslogistik.net/public_html/logistik-flutter-2021/apps/models/mdelivery.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp46365/home/ecourier/accesslogistik.net/public_html/logistik-flutter-2021/apps/models/mpickup.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp45254/home/ecourier/accesslogistik.net/public_html/logistik-flutter-2021/apps/models/mdeliverystatus.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp38711/home/ecourier/accesslogistik.net/public_html/logistik-flutter-2021/apps/models/mdelivery.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp32059/home/ecourier/accesslogistik.net/public_html/logistik-flutter-2021/apps/models/mpickup.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp31556/home/ecourier/accesslogistik.net/public_html/logistik-flutter-2021/apps/models/msync.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp31156/home/ecourier/accesslogistik.net/public_html/logistik-flutter-2021/vendor/composer/autoload_real.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp31220/home/ecourier/accesslogistik.net/public_html/logistik-flutter-2021/vendor/autoload.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp30086/home/ecourier/accesslogistik.net/public_html/logistik-flutter-2021/index.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp08598/home/ecourier/accesslogistik.net/public_html/logistik-api-2020/apps/models/mdelivery.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp06467/home/ecourier/accesslogistik.net/public_html/logistik-api-2020/apps/models/msync.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp06201/home/ecourier/accesslogistik.net/public_html/logistik-api-2020/apps/routing.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp06055/home/ecourier/accesslogistik.net/public_html/logistik-api-2020/configs.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp28254/home/ecourier/accesslogistik.net/public_html/apps_2020/modules/ttransinboundawb/views/index.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp05328/home/ecourier/accesslogistik.net/public_html/logistik-api-2020/index.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp06822/home/ecourier/accesslogistik.net/public_html/apps_2020/modules/ttransinvoice/controllers/ttransinvoice.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp23113/home/ecourier/accesslogistik.net/public_html/apps_2020/modules/tmonitoringbaranggrid/views/index.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp38694/home/ecourier/accesslogistik.net/public_html/apps_2020/modules/tmonitoringbaranggridnew/views/index.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp25330/home/ecourier/accesslogistik.net/public_html/apps_2020/modules/tvdashboardv2/controllers/tvdashboardv2.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp16704/home/ecourier/accesslogistik.net/public_html/apps_2020/templates/docs/ttransinboundawbform/docs.json",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp16646/home/ecourier/accesslogistik.net/public_html/apps_2020/templates/docs/ttransinboundawbform/template_code/pdf_ttransinboundawbform.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp59522/home/ecourier/accesslogistik.net/public_html/apps_2020/templates/docs/ttransinboundawbform/template_code/pdf_ttransinboundawbform.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp46631/home/ecourier/accesslogistik.net/public_html/apps_2020/templates/docs/ttransinboundawbform/template_code/pdf_ttransinboundawbform.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp03647/home/ecourier/accesslogistik.net/public_html/apps_2020/templates/docs/ttransinboundawbform/template_code/pdf_ttransinboundawbform-3.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp40445/home/ecourier/accesslogistik.net/public_html/apps_2020/templates/docs/ttransinboundawbform/template_code/pdf_ttransinboundawbform.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp44689/home/ecourier/accesslogistik.net/public_html/apps_2020/templates/docs/ttransinboundawbform/docs.json",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp13437/home/ecourier/accesslogistik.net/public_html/apps_2020/templates/docs/ttransinboundawbform/template_code/pdf_ttransinboundawbform.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp19992/home/ecourier/accesslogistik.net/public_html/apps_dev/templates/docs/ttransinboundawbform/template_code/pdf_ttransinboundawbform-2.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp18144/home/ecourier/accesslogistik.net/public_html/apps_dev/templates/docs/ttransinboundawbform/template_code/pdf_ttransinboundawbform.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp09102/home/ecourier/accesslogistik.net/public_html/apps_2020/templates/docs/ttransinboundawbform/template_code/pdf_ttransinboundawbform.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp29368/home/ecourier/accesslogistik.net/public_html/apps_2020/templates/docs/ttransinboundawbform/template_code/pdf_ttransinboundawbform.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp22508/home/ecourier/accesslogistik.net/public_html/apps_2020/templates/docs/ttransinboundawbform/template_code/pdf_ttransinboundawbform.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp13016/home/ecourier/accesslogistik.net/public_html/apps_2020/modules/tmastercustomer/views/index.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp13745/home/ecourier/accesslogistik.net/public_html/apps_2020/modules/tmastercustomer/controllers/tmastercustomer.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp16566/home/ecourier/accesslogistik.net/public_html/apps_2020/modules/tmastercustomer/models/model_tmastercustomer.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp19532/home/ecourier/accesslogistik.net/public_html/apps_2020/modules/tmastercustomer/config.json",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp19980/home/ecourier/accesslogistik.net/public_html/apps_2020/modules/tmastercustomer/tmastercustomer.json",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp17756/home/ecourier/accesslogistik.net/public_html/apps_2020/templates/docs/ttransinboundawbform/template_code/pdf_ttransinboundawbform-2.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp26185/home/ecourier/accesslogistik.net/public_html/apps_2020/vendor/dompdf/dompdf/include/cellmap.cls.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp24198/home/ecourier/accesslogistik.net/public_html/apps_2020/templates/docs/ttransinboundawbform/template_code/pdf_ttransinboundawbform.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp02786/home/ecourier/accesslogistik.net/public_html/apps_dev/templates/docs/ttransinboundawbform/template_code/pdf_ttransinboundawbform.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp05018/home/ecourier/accesslogistik.net/public_html/logistik-api-dev/vendor/autoload.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp53211/home/ecourier/accesslogistik.net/public_html/index.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp05114/home/ecourier/accesslogistik.net/public_html/logistik-api-dev/index.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp36017/home/ecourier/accesslogistik.net/public_html/logistik-api-2020/configs.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp44205/home/ecourier/accesslogistik.net/public_html/logistik-api/apps/models/msync.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp35163/home/ecourier/accesslogistik.net/public_html/logistik-api-dev/configs.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp44949/home/ecourier/accesslogistik.net/public_html/logistik-api-dev/apps/models/msync.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp49106/home/ecourier/accesslogistik.net/public_html/logistik-api-dev/apps/models/mbarcode.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp48066/home/ecourier/accesslogistik.net/public_html/logistik-api/apps/models/mbarcode.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp44966/home/ecourier/accesslogistik.net/public_html/logistik-api-dev/vendor/autoload.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp43829/home/ecourier/accesslogistik.net/public_html/logistik-api-dev/myinfo.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp41879/home/ecourier/accesslogistik.net/public_html/logistik-api-dev/index.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp42847/home/ecourier/accesslogistik.net/public_html/logistik-api-dev/apps/controllers/cindex.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp41863/home/ecourier/accesslogistik.net/public_html/logistik-api-dev/apps/routing.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp41174/home/ecourier/accesslogistik.net/public_html/logistik-api-dev/test.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp41175/home/ecourier/accesslogistik.net/public_html/logistik-api/configs.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp34900/home/ecourier/accesslogistik.net/public_html/api.logistik.dev/configs.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp34836/home/ecourier/accesslogistik.net/public_html/api.logistik/apps/routing.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp33999/home/ecourier/accesslogistik.net/public_html/api.logistik/configs.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp36140/home/ecourier/accesslogistik.net/public_html/apps/templates/docs/ttransmanifestform/template_code/pdf_ttransmanifestform.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp29882/home/ecourier/accesslogistik.net/public_html/apps/templates/docs/ttransmanifestform/template_code/pdf_ttransmanifestform.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp05146/home/ecourier/accesslogistik.net/public_html/index.php",
+		"/C/xampp/htdocs/access/index-opening.php",
+		"/C/xampp/htdocs/access/index.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp53079/home/ecourier/accesslogistik.net/public_html/web/index.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp31450/home/ecourier/accesslogistik.net/public_html/web/application/controllers/Welcome.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp32659/home/ecourier/accesslogistik.net/public_html/index.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp25363/home/ecourier/accesslogistik.net/public_html/web/application/models/Berita_model.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp24585/home/ecourier/accesslogistik.net/public_html/web/application/config/config.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp15038/home/ecourier/accesslogistik.net/public_html/_index.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp47566/home/ecourier/accesslogistik.net/public_html/_index.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp31903/home/ecourier/accesslogistik.net/public_html/web/application/models/Konfigurasi_model.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp30823/home/ecourier/accesslogistik.net/public_html/web/application/config/database.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp13001/home/ecourier/accesslogistik.net/public_html/application/controllers/Berita.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp29640/home/ecourier/accesslogistik.net/public_html/web/application/config/autoload.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp15784/home/ecourier/accesslogistik.net/public_html/application/controllers/admin/Konfigurasi.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp15697/home/ecourier/accesslogistik.net/public_html/application/controllers/Home.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp21337/home/ecourier/accesslogistik.net/public_html/web/application/controllers/admin/Konfigurasi.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp11171/home/ecourier/accesslogistik.net/public_html/application/views/berita/profil.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp24126/home/ecourier/accesslogistik.net/public_html/web/application/views/admin/berita/tambah.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp42027/home/ecourier/accesslogistik.net/public_html/web/application/views/admin/berita/edit.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp41557/home/ecourier/accesslogistik.net/public_html/web/application/config/config.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp09095/home/ecourier/accesslogistik.net/public_html/web/index.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp17065/home/ecourier/accesslogistik.net/public_html/apps/templates/docs/ttransinboundawbform/template_code/pdf_ttransinboundawbform.php",
+		"/C/Users/C-Sundara/AppData/Local/Temp/scp58279/home/ecourier/accesslogistik.net/public_html/apps/modules/ttranspickup/views/index.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "webpack.mix.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
