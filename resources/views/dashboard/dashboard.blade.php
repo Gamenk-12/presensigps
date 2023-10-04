@@ -6,7 +6,17 @@
                     <img src="{{asset('assets/img/sample/avatar/avatar1.jpg')}}" alt="avatar" class="imaged w64 rounded">
                 </div>
                 <div id="user-info">
-                    <span id="user-role">{{ $salam }}</span>
+                <style type="text/css">
+                        #p{
+                            color: #FFFFFF;
+                            font-size: 20px;
+                            font-weight: bold;
+                            font-family:Cursive, Lucida-Handwriting;
+                            font-style : oblique; }
+                        </style>
+                    <span id="user-role">
+                    <p id="p">
+                        {{ $salam }}</p></span>
                     <!-- <h2 id="user-name"><strong>{{$karyawan->nama_lengkap}}</strong></h2> -->
                     <h2 id="user-name"><strong>{{Auth::guard('karyawan')->user()->nama_lengkap}}</strong></h2>
                     <!-- <span id="user-role">{{$karyawan->jabatan}}</span> -->
